@@ -1,0 +1,8 @@
+{
+    "require":{ 
+        "abraham/twitteroauth" : "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "*"
+    }
+}
